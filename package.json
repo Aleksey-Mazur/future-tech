@@ -11,8 +11,5 @@
   "description": "",
   "devDependencies": {
     "sass": "^1.83.1"
-  },
-  "dependencies": {
-    "@a1rth/css-normalize": "^1.1.9"
   }
 }
